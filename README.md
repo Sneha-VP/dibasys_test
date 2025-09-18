@@ -1,16 +1,9 @@
 # dibasys_test
 
-A new Flutter project.
+This is a Flutter-based attendance app with manual check-in, working hours tracking, and bottom navigation.
 
-## Getting Started
+The app is built using Flutter 3.7.6 and Provider for state management.
 
-This project is a starting point for a Flutter application.
+Features include login, working hours display, check-in dialog, and easy navigation across Home, Activities, Jobs, and Notifications.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone the repo, run flutter pub get, and start the app with flutter run.
