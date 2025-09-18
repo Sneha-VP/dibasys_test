@@ -2,7 +2,7 @@
 
 This is a Flutter-based attendance app with manual check-in, working hours tracking, and bottom navigation.
 
-The app is built using Flutter 3.7.6 and Provider for state management.
+The app using Provider for state management.
 
 Features include login, working hours display, check-in dialog, and easy navigation across Home, Activities, Jobs, and Notifications.
 
